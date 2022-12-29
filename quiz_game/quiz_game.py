@@ -14,7 +14,7 @@ else:
     print('Incorrect')
 
 answer = input("What does HDD stands for ? ")
-if answer.lower() == 'hard disk drive':
+if answer.lower() == 'hybrid disk drive':
     print('Correct!')
     score += 10
 else:
